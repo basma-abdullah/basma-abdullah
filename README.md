@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basma-abdullah
-- 👀 I’m interested in web development and cyber security 
-- 🌱 I’m currently learning web develpment 
+- 👀 I’m interested in data science espically in data analysis  
+- 🌱 I’m currently learning data mining  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
